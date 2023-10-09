@@ -94,6 +94,7 @@ public class GT4500 implements SpaceShip {
         if(primary || secondary) {
           firingSuccess = true;
         }
+        //mostmar jo lehetne
         // try to fire both of the torpedo stores
 
         break;
